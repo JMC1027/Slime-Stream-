@@ -1,0 +1,15 @@
+C:\Users\jmcke\Documents\GitHub\Slime-Stream-\SlimeStream\bin\Debug\SlimeStream.exe.config
+C:\Users\jmcke\Documents\GitHub\Slime-Stream-\SlimeStream\bin\Debug\SlimeStream.exe
+C:\Users\jmcke\Documents\GitHub\Slime-Stream-\SlimeStream\bin\Debug\SlimeStream.pdb
+C:\Users\jmcke\Documents\GitHub\Slime-Stream-\SlimeStream\bin\Debug\Interop.WMPLib.dll
+C:\Users\jmcke\Documents\GitHub\Slime-Stream-\SlimeStream\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\jmcke\Documents\GitHub\Slime-Stream-\SlimeStream\obj\Debug\SlimeStream.csproj.AssemblyReference.cache
+C:\Users\jmcke\Documents\GitHub\Slime-Stream-\SlimeStream\obj\Debug\Interop.WMPLib.dll
+C:\Users\jmcke\Documents\GitHub\Slime-Stream-\SlimeStream\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\jmcke\Documents\GitHub\Slime-Stream-\SlimeStream\obj\Debug\SlimeStream.csproj.ResolveComReference.cache
+C:\Users\jmcke\Documents\GitHub\Slime-Stream-\SlimeStream\obj\Debug\SlimeStream.Properties.Resources.resources
+C:\Users\jmcke\Documents\GitHub\Slime-Stream-\SlimeStream\obj\Debug\SlimeStream.csproj.GenerateResource.cache
+C:\Users\jmcke\Documents\GitHub\Slime-Stream-\SlimeStream\obj\Debug\SlimeStream.csproj.CoreCompileInputs.cache
+C:\Users\jmcke\Documents\GitHub\Slime-Stream-\SlimeStream\obj\Debug\SlimeStream.exe
+C:\Users\jmcke\Documents\GitHub\Slime-Stream-\SlimeStream\obj\Debug\SlimeStream.pdb
+C:\Users\jmcke\Documents\GitHub\Slime-Stream-\SlimeStream\obj\Debug\SlimeStream.SlimeStream.resources
